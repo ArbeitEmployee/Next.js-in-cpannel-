@@ -33,6 +33,7 @@ Node.js Version: 20.x
 Application Mode: Production
 Application Root: your-project
 Application URL: your-domain.com
+startup file: server.js
 ```
 
 > The exact available Node.js versions and fields may vary depending on your hosting provider.
